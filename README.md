@@ -1,6 +1,6 @@
 # Scala Repository Analysis
 
-##Questions
+## Questions
 - Is the project still actively maintained ?
 - Is there camaraderie in the project ?
 - What files were changed in the last ten pull requests?
