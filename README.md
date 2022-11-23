@@ -9,7 +9,7 @@
 - Who are the top special developers ?
 - Visualizing the contributions of each developer
 
-# Data Source 
+## Data Source 
 The dataset we used, which has been previously mined and extracted from GitHub, is comprised of three files:
 1.pulls_2011-2013.csv contains the basic information about the pull requests, and spans from the end of 2011 up to (but not including) 2014.
 2. pulls_2014-2018.csv contains identical information, and spans from 2014 up to 2018.
